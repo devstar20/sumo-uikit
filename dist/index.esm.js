@@ -2106,7 +2106,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/sumoswap",
+                href: "https://t.me/sumoswapfinance",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2150,7 +2150,7 @@ var socials = [
             // },
             {
                 label: "Announcements",
-                href: "https://t.me/sumoswapANN",
+                href: "https://t.me/sumoswapannouncements",
             },
             // {
             //   label: "Whale Alert",
